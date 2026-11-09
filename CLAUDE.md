@@ -30,6 +30,13 @@
 
 مهارات Strix في `.claude/skills/`. استخدمها فقط على أصول Ocean Spa (الموقع، الـ API، هذا المستودع). اطلب موافقة المستخدم قبل تشغيل أي فحص أو أي عملية تستهلك رصيداً في app.strix.ai.
 
+## أدوات إضافية
+
+- `agent-reach`: قراءة محتوى المنصات (X، Reddit، YouTube، Instagram) عند فشل البحث العادي فقط. قراءة فقط، ولا تسجّل دخولاً نيابة عن المستخدم.
+- `awesome-free-llm-apis`: مرجع لمزوّدي النماذج المجانية، عند السؤال عنها فقط.
+- `claude-automation-recommender`: اقتراح أتمتة لإعداد Claude Code عند الطلب.
+- البلجنز `claude-code-setup` و`claude-mem` مسجّلة في `.claude/settings.json` وتُثبَّت تلقائياً على جهاز المستخدم.
+
 ## مهارات خاصة بالمشروع
 
 تُوضع في `.claude/skills/<الاسم>/SKILL.md`.

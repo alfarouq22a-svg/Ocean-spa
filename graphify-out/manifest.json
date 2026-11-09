@@ -1,8 +1,8 @@
 {
   ".claude/settings.json": {
-    "mtime": 1794260721.0551383,
-    "seen": 1794260786.5972972,
-    "ast_hash": "9682254b18185debee8125c1bd7b9e40",
+    "mtime": 1794261545.5529323,
+    "seen": 1794261564.1003413,
+    "ast_hash": "405bb6f8a01ed2ab4b41ae3d74b1321f",
     "semantic_hash": ""
   },
   ".mcp.json": {
@@ -18,9 +18,9 @@
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1794261044.83766,
-    "seen": 1794261045.6601763,
-    "ast_hash": "d4d166aeb0db3f55e02ca114545b3499",
+    "mtime": 1794261551.818754,
+    "seen": 1794261564.1003878,
+    "ast_hash": "b3f8969d0cffd79cf06294d94d4345b7",
     "semantic_hash": ""
   },
   ".claude/skills/api-security-testing/SKILL.md": {
@@ -75,6 +75,72 @@
     "mtime": 1794261044.7764518,
     "seen": 1794261045.6601746,
     "ast_hash": "f11015055146c663218ae26c0c459758",
+    "semantic_hash": ""
+  },
+  ".claude/skills/agent-reach/SKILL.md": {
+    "mtime": 1794261545.5308273,
+    "seen": 1794261564.1003585,
+    "ast_hash": "2b13ab1888a4bb86988c64c9bc2d85f0",
+    "semantic_hash": ""
+  },
+  ".claude/skills/agent-reach/references/capabilities.md": {
+    "mtime": 1794261545.5324051,
+    "seen": 1794261564.10036,
+    "ast_hash": "41be19c875f660034b6b2514e700b006",
+    "semantic_hash": ""
+  },
+  ".claude/skills/agent-reach/references/maintenance.md": {
+    "mtime": 1794261545.5324395,
+    "seen": 1794261564.100361,
+    "ast_hash": "847ce904de42df8d7b4a00b36db19de6",
+    "semantic_hash": ""
+  },
+  ".claude/skills/agent-reach/references/sessions.md": {
+    "mtime": 1794261545.532448,
+    "seen": 1794261564.1003623,
+    "ast_hash": "4f488953c30193d875248eddc779b123",
+    "semantic_hash": ""
+  },
+  ".claude/skills/awesome-free-llm-apis/SKILL.md": {
+    "mtime": 1794261545.5267706,
+    "seen": 1794261564.1003673,
+    "ast_hash": "69fda3195b320cadce8087e61a680d3d",
+    "semantic_hash": ""
+  },
+  ".claude/skills/claude-automation-recommender/SKILL.md": {
+    "mtime": 1794261545.5236506,
+    "seen": 1794261564.10037,
+    "ast_hash": "b40998879ae01c9b32d3d774fd1f068c",
+    "semantic_hash": ""
+  },
+  ".claude/skills/claude-automation-recommender/references/hooks-patterns.md": {
+    "mtime": 1794261545.5237048,
+    "seen": 1794261564.1003742,
+    "ast_hash": "bf393e21125942adf8dae093888690b1",
+    "semantic_hash": ""
+  },
+  ".claude/skills/claude-automation-recommender/references/mcp-servers.md": {
+    "mtime": 1794261545.5237243,
+    "seen": 1794261564.1003757,
+    "ast_hash": "e6c6c21957b76c8a2f3cf91efbbf0233",
+    "semantic_hash": ""
+  },
+  ".claude/skills/claude-automation-recommender/references/plugins-reference.md": {
+    "mtime": 1794261545.5237436,
+    "seen": 1794261564.1003764,
+    "ast_hash": "ff995064234392f3a00691a8b029feea",
+    "semantic_hash": ""
+  },
+  ".claude/skills/claude-automation-recommender/references/skills-reference.md": {
+    "mtime": 1794261545.5237608,
+    "seen": 1794261564.1003776,
+    "ast_hash": "981b88cc53d0cf273c7dde6a845c0d2b",
+    "semantic_hash": ""
+  },
+  ".claude/skills/claude-automation-recommender/references/subagent-templates.md": {
+    "mtime": 1794261545.5237744,
+    "seen": 1794261564.1003785,
+    "ast_hash": "0a7e003448a752cc4a829d7792b5615d",
     "semantic_hash": ""
   }
 }
