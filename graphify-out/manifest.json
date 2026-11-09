@@ -1,0 +1,26 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1794260721.0551383,
+    "seen": 1794260786.5972972,
+    "ast_hash": "9682254b18185debee8125c1bd7b9e40",
+    "semantic_hash": ""
+  },
+  ".mcp.json": {
+    "mtime": 1794260080.5666666,
+    "seen": 1794260786.5973055,
+    "ast_hash": "71fbe0981638776043d09e33b2cff0f6",
+    "semantic_hash": ""
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1794260707.027559,
+    "seen": 1794260786.597309,
+    "ast_hash": "9b31786b637be3c13978bec4c2330752",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1794260707.0280452,
+    "seen": 1794260786.5973113,
+    "ast_hash": "015b3de078d0d7c13a00e34746e45ca0",
+    "semantic_hash": ""
+  }
+}
