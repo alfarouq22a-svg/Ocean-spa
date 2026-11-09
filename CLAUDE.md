@@ -18,6 +18,10 @@
 - العملاء: `social-media-skills:reply-and-comment-writer`، `sales:handle-objection`
 - المستندات: `anthropic-skills:pdf`، `anthropic-skills:pptx`
 
+## Context7 (توثيق المكتبات)
+
+خادم MCP مسجّل في `.mcp.json`. استخدمه فقط عند كتابة كود يعتمد على مكتبة أو إطار عمل (مثل Next.js وTailwind) للحصول على توثيق محدّث، وليس للمحتوى التسويقي.
+
 ## مهارات خاصة بالمشروع
 
 تُوضع في `.claude/skills/<الاسم>/SKILL.md`.
