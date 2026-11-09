@@ -6,9 +6,9 @@
     "semantic_hash": ""
   },
   ".mcp.json": {
-    "mtime": 1794260080.5666666,
-    "seen": 1794260786.5973055,
-    "ast_hash": "71fbe0981638776043d09e33b2cff0f6",
+    "mtime": 1794261012.3105426,
+    "seen": 1794261045.6601539,
+    "ast_hash": "9e454ce984ba057a5415f23af819a769",
     "semantic_hash": ""
   },
   ".claude/CLAUDE.md": {
@@ -18,9 +18,63 @@
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1794260707.0280452,
-    "seen": 1794260786.5973113,
-    "ast_hash": "015b3de078d0d7c13a00e34746e45ca0",
+    "mtime": 1794261044.83766,
+    "seen": 1794261045.6601763,
+    "ast_hash": "d4d166aeb0db3f55e02ca114545b3499",
+    "semantic_hash": ""
+  },
+  ".claude/skills/api-security-testing/SKILL.md": {
+    "mtime": 1794261044.775986,
+    "seen": 1794261045.6601617,
+    "ast_hash": "944f3fc75c803fbb164359ab8596f755",
+    "semantic_hash": ""
+  },
+  ".claude/skills/application-security-testing/SKILL.md": {
+    "mtime": 1794261044.7760818,
+    "seen": 1794261045.6601636,
+    "ast_hash": "cf16b122911e4bfbaafbc75cb64be71c",
+    "semantic_hash": ""
+  },
+  ".claude/skills/ci-security-scanning-with-strix/SKILL.md": {
+    "mtime": 1794261044.7761378,
+    "seen": 1794261045.6601653,
+    "ast_hash": "d332888aa27faae4241b8c2ffa52ff33",
+    "semantic_hash": ""
+  },
+  ".claude/skills/find-security-vulnerabilities-in-code/SKILL.md": {
+    "mtime": 1794261044.776211,
+    "seen": 1794261045.660167,
+    "ast_hash": "e09f4960e3e9f234295350e615141417",
+    "semantic_hash": ""
+  },
+  ".claude/skills/fix-security-vulnerabilities-with-strix/SKILL.md": {
+    "mtime": 1794261044.7762673,
+    "seen": 1794261045.6601686,
+    "ast_hash": "eae192044077794ac7e56e202d8ebc24",
+    "semantic_hash": ""
+  },
+  ".claude/skills/managed-pentesting-with-strix/SKILL.md": {
+    "mtime": 1794261044.7763155,
+    "seen": 1794261045.66017,
+    "ast_hash": "500a15378d11114da3701d9a71efcbab",
+    "semantic_hash": ""
+  },
+  ".claude/skills/owasp-top-10-testing/SKILL.md": {
+    "mtime": 1794261044.776357,
+    "seen": 1794261045.6601713,
+    "ast_hash": "e34a31df3763eacb5db3df244e2a03b4",
+    "semantic_hash": ""
+  },
+  ".claude/skills/penetration-testing-with-strix/SKILL.md": {
+    "mtime": 1794261044.7764125,
+    "seen": 1794261045.660173,
+    "ast_hash": "fb08047bd0d383ab92e18de2509f175a",
+    "semantic_hash": ""
+  },
+  ".claude/skills/web-app-penetration-testing/SKILL.md": {
+    "mtime": 1794261044.7764518,
+    "seen": 1794261045.6601746,
+    "ast_hash": "f11015055146c663218ae26c0c459758",
     "semantic_hash": ""
   }
 }
